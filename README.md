@@ -1,6 +1,24 @@
-# TERRANOVA HL2 RP Issues
+<p align="center">
+	<a href="https://github.com/terranova3/hl2rp/">
+		<img src="https://i.gyazo.com/0a9fee7695ceeb9947cf6703ae7be509.png" alt="TERRANOVA" />
+	</a>
+</p>
 
+<p align="center">
+	<a href="https://discord.gg/4Sh9gbW">
+		<img alt="Discord" src="https://img.shields.io/discord/703480712854241686">
+	</a>
+	<a href="https://github.com/terranova3/hl2rp-issues">
+		<img alt="GitHub issues" src="https://img.shields.io/github/issues-raw/terranova3/hl2rp-issues">
+	</a>
+	<a href="https://github.com/terranova3/hl2rp-suggestions">
+		<img alt="GitHub suggestions" src="https://img.shields.io/github/issues-raw/terranova3/hl2rp-suggestions?label=open%20suggestions">
+	</a>
+</p>
+
+<p align="center">
 Use this repository to report any bugs that need to be fixed by the development team.
+</p>
 
 ## How?
 
